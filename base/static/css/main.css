@@ -1,2 +1,24 @@
+* {
+    box-sizing: border-box;
+}
 
+body {
+    background-color: gray;
+}
 
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.background-img, p, h1 {
+    color: white;
+}
+
+#inspired {
+    color: aquamarine;
+}
+
+#passion {
+    color: yellow;
+}
